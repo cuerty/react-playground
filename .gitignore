@@ -66,3 +66,6 @@ target/
 
 # npm modules.
 node_modules/
+
+# Vim's rope
+.ropeproject/
