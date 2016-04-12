@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Database
+*.sqlite3
+
+# npm modules.
+node_modules/
